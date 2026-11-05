@@ -32,6 +32,7 @@ Owner: Cameron · Season: Nov 2 2026 – Jan 10 2027 · Last updated: 2026-11-01
 | 11 | Paid amplification | Which posts get money behind them? | [10](10-paid-amplification.md) |
 | 12 | Measurement & decisions | What do we track, and what do the numbers tell us to do? | [11](11-measurement.md) |
 | 13 | Guardrails | What do we never do? | [12](12-guardrails.md) |
+| **14** | **Autonomous pipeline** | **How does content get reviewed, posted and measured without Cameron?** | **[autonomy/](autonomy/README.md)** |
 
 Working files: [`templates/`](templates/) (UGC brief, creator outreach, caption formulas, weekly scorecard) · [`dm-bot/products.csv`](dm-bot/products.csv) (keyword → product → variant ID) · [`dm-bot/build_links.py`](dm-bot/build_links.py) (generates UTM-tagged product and one-tap checkout links).
 
