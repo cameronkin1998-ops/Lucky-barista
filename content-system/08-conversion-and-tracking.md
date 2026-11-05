@@ -5,7 +5,7 @@ Social sent 6 sessions in 90 days. This component makes sure every view has a pa
 ## The path from post to purchase
 
 ```
-Post (one product) ─┬─ IG/FB: "Comment FOAM" → GHL bot DM → one-tap checkout link ──→ Shop Pay → Order   ← MAIN PATH
+Post (one product) ─┬─ IG/FB: "Comment FOAM" → ManyChat bot DM → one-tap checkout link ──→ Shop Pay → Order   ← MAIN PATH
                     ├─ TikTok: product tag (orange cart) ───────────────────────────→ Product page → Checkout
                     ├─ TikTok: "DM FOAM" → keyword auto-reply → checkout link ──────→ Shop Pay
                     ├─ Story link sticker → product page
@@ -47,7 +47,7 @@ Keep a running list of every link in the scorecard so each post's result can be 
 
 - Email/SMS pop-up: "Get early Black Friday access + 10% off your first order" (Shopify Forms).
 - Waitlist forms for Tier C (heated mug, scale).
-- Automations (Shopify Email / Klaviyo / GHL): welcome series (3 emails), **abandoned cart** (1 h, 24 h), browse abandonment, post-purchase review-and-UGC ask (day 10).
+- Automations (Shopify Email or Klaviyo): welcome series (3 emails), **abandoned cart** (1 h, 24 h), browse abandonment, post-purchase review-and-UGC ask (day 10).
 
 ## 6. Pixels and catalog sync
 

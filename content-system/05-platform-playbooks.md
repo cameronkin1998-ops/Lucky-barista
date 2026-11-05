@@ -32,7 +32,7 @@ Same footage, different packaging for each platform.
 | Stories | Daily: 1 behind the scenes, 1 product with a link sticker, 1 poll or question box. **Pinned Highlights:** Gift Guide · Latte Art · Machines · Reviews · Shipping. |
 | Bio | One line on what we are, "🎁 Holiday gift guide ↓", and the link-in-bio (component 8) |
 | Collabs | Use **Collab posts** with UGC creators so the Reel shows on both accounts |
-| DM automation | **The main CTA on every post:** "Comment **FOAM** and I'll DM you the link". The GHL bot replies publicly and sends the one-tap checkout link ([dm-bot/](dm-bot/README.md)). The bio link points to the current week's main product. |
+| DM automation | **The main CTA on every post:** "Comment **FOAM** and I'll DM you the link". The ManyChat bot replies publicly and sends the one-tap checkout link ([dm-bot/](dm-bot/README.md)). The bio link points to the current week's main product. |
 
 ## Facebook: gift buyers and retargeting
 
@@ -44,7 +44,7 @@ Same footage, different packaging for each platform.
 | Content | Gift guides and "what to get the coffee lover" do best here. Use longer captions with prices. Say "Shop now" plainly. |
 | Shop | The Facebook sales channel is connected. Check that the Shop shows **only active products**, organized into the gift collections. |
 | Groups | 30 minutes a week of genuinely helpful answers in home-espresso and coffee groups. Only link when someone asks. |
-| Messenger | The same GHL comment-to-DM bot as Instagram (Facebook comment trigger). "Comment FOAM" works on FB Reels and posts. Turn on instant replies for "shipping" and "gift". |
+| Messenger | The same ManyChat comment-to-DM bot as Instagram (Messenger channel). "Comment FOAM" works on FB Reels and posts. Turn on instant replies for "shipping" and "gift". |
 | Ads | This is the home of retargeting (component 10). The Facebook Ads connector in Claude **needs authorization** in claude.ai connector settings before Claude can read or adjust campaigns. |
 
 ## Adapting one hero video for each platform

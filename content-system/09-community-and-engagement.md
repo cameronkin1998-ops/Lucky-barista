@@ -23,7 +23,7 @@ Posting is half the job. The other half is what happens in the first hour after 
 | STOP | Opt out, end all automations |
 | Questions, complaints, order issues | The bot doesn't send a link. Cameron gets the handoff and replies personally within 2 h. |
 
-**Cameron's daily check (10 min):** the GHL inbox, filtered to "assigned to me". These are the conversations the bot handed off.
+**Cameron's daily check (10 min):** the ManyChat Live Chat inbox, filtered to "assigned to me". These are the conversations the bot handed off.
 
 ## The UGC loop (customers making content for us)
 

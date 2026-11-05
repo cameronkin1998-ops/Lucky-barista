@@ -10,7 +10,7 @@
 | **Customer UGC** (post-purchase ask) | 10% (grows) | Discount code or feature | Ongoing | Proof and People pillar |
 | **Higgsfield AI** (existing TikTok skill) | 10% | Credits | Hours | B-roll, carousels, waitlist teasers for out-of-stock items. **Always labeled as AI.** Never used as a fake "customer". |
 
-## Creator pipeline (Ripple CRM / GHL pipeline or a simple sheet)
+## Creator pipeline (a simple Google Sheet; Lucky Barista stays separate from Ripple's GHL)
 
 `Sourced → Contacted → Agreed → Product shipped → Draft received → Approved → Posted → Paid → Re-book?`
 

@@ -47,7 +47,7 @@ $20–$60         hands, real sound       TikTok: "tap the cart     one-tap chec
 
 ## Launch order (this week)
 
-1. **Mon–Tue Nov 2–3:** build the DM bot in GHL (dm-bot/README.md Steps 0–3) and run the launch test.
+1. **Mon–Tue Nov 2–3:** build the DM bot in ManyChat (dm-bot/README.md Steps 0–3) and run the launch test.
 2. **Tue Nov 3:** set up TikTok product tags and keyword replies (Step 4). Decide on MUG and WHISK pricing (component 2).
 3. **Wed Nov 4:** first FOAM post on all three platforms with "Comment FOAM".
 4. **This week:** add your style examples to `style-references/`. Recruit 5–10 UGC creators (component 7). Creators need product shipped by **Nov 10** to deliver before BFCM.
@@ -56,10 +56,10 @@ $20–$60         hands, real sound       TikTok: "tap the cart     one-tap chec
 
 | Day | What happens |
 | --- | --- |
-| **Mon** · Plan (60 min) | Read the scorecard. Pick this week's 2 keywords/products. Update the GHL custom values with this week's links (`build_links.py`). Send creator briefs. |
+| **Mon** · Plan (60 min) | Read the scorecard. Pick this week's 2 keywords/products. Update the ManyChat bot fields with this week's links (`build_links.py`). Send creator briefs. |
 | **Tue** · Batch (90 min) | Film or collect UGC. Higgsfield gap-fill. |
 | **Wed** · Edit + schedule (60 min) | Repurpose each hero video into its versions. QA. Schedule. Every caption carries its keyword CTA. |
-| **Daily** · Engage (20 min) | Check the GHL inbox for handoffs (questions, machine buyers). Reply to non-keyword comments. |
+| **Daily** · Engage (20 min) | Check the ManyChat Live Chat inbox for handoffs (questions, machine buyers). Reply to non-keyword comments. |
 | **Thu** · Amplify (30 min) | Boost the post with the most DMs triggered per 1,000 views |
 | **Fri** · Measure (30 min) | Scorecard: views → keyword comments → DMs sent → checkouts → orders, per product |
 

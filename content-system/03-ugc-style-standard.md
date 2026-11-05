@@ -55,7 +55,7 @@ Most of what we publish is UGC: content that looks and feels made by a real pers
 - [ ] Sound is clean. Captions or subtitles are on.
 - [ ] The creator has signed usage rights (whitelisting, if we'll run it as an ad).
 - [ ] Disclosure is set: paid partnership label, "#ad", or "AI-generated" where it applies.
-- [ ] One product, one keyword CTA. Say it out loud and show it on screen in the last 2 s ("Comment FOAM"; on TikTok "DM FOAM / tap the cart"). The GHL bot is live for that keyword.
+- [ ] One product, one keyword CTA. Say it out loud and show it on screen in the last 2 s ("Comment FOAM"; on TikTok "DM FOAM / tap the cart"). The ManyChat bot is live for that keyword.
 
 ## Reference examples
 

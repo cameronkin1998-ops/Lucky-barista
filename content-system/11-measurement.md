@@ -18,8 +18,8 @@ Use [`templates/weekly-scorecard.md`](templates/weekly-scorecard.md). Pull the p
 | Step | Metric | Source |
 | --- | --- | --- |
 | Views | Views on posts featuring the keyword | Platform insights |
-| Ask rate | Keyword comments + DMs ÷ views (target ≥ 0.5%) | GHL contacts tagged `dm-<keyword>` this week |
-| Sent | DMs delivered by the bot | GHL workflow stats |
+| Ask rate | Keyword comments + DMs ÷ views (target ≥ 0.5%) | ManyChat subscribers tagged `dm-<keyword>` this week |
+| Sent | DMs delivered by the bot | ManyChat automation stats |
 | Tap rate | DM-link sessions ÷ DMs sent (target ≥ 40%) | Shopify sessions where `utm_medium=dm`, `utm_content=<keyword>` |
 | Buy rate | Orders ÷ DMs sent (target ≥ 5%) | Shopify orders by UTM / tag `bought-<product>` |
 
